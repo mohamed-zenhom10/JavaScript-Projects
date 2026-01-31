@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: monospace;
+}
+
+:root {
+  --main-color: #2c3e50;
+  --red-color: #c0392b;
+  --green-color: #27ae60;
+  --gray-color: #7f8c8d;
+}
+
+.container {
+  width: 600px;
+  margin: 100px auto 0;
+}
+
+.container h1 {
+  text-align: center;
+  font-size: 60px;
+  color: var(--main-color);
+}
+
+.container .time {
+  width: fit-content;
+  margin: 20px auto;
+  font-size: 70px;
+  font-weight: 500;
+  color: var(--main-color);
+}
+
+.container .btn-group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  margin-top: 70px;
+}
+
+.container .btn-group button {
+  padding: 10px 25px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  transition: 0.3s;
+  font-size: 20px;
+  border-radius: 5px;
+  color: white;
+}
+
+.container .btn-group button:first-child {
+  background-color: var(--green-color);
+}
+
+.container .btn-group button:nth-child(2) {
+  background-color: var(--red-color);
+}
+
+.container .btn-group button:last-child {
+  background-color: var(--gray-color);
+} 

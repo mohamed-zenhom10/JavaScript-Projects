@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Normalization Link -->
+  <link rel="stylesheet" href="css/Normalize.css">
+  <!-- Icons Link -->
+  <link rel="stylesheet" href="css/all.min.css">
+  <!-- Style Link -->
+  <link rel="stylesheet" href="css/style.css">
+  <!-- Google Font Link -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+  <title>CRUDS APP</title>
+</head>
+<body>
+  
+  <div class="project-container">
+    <div class="header">
+      <div class="title">CRUDS APP</div>
+      <p class="brief">
+        A CRUD app is a simple application that lets 
+        users create, read, update, delete, and search data easily.
+      </p>
+      <div class="notifications">
+        <div class="notification-bell">
+          <small class="notification-count"></small>
+          <i class="fa-solid fa-bell"></i>
+        </div>
+        <div class="notification-part"></div>
+      </div>
+    </div>
+
+    <div class="add-product">
+      <div class="input-box">
+        <label for="product-name">Product Name</label>
+        <input type="text" id="product-name">
+      </div>
+      <div class="price-info">
+
+        <div class="price-input">
+          <label for="product-price">Product Price</label>
+          <input onkeyup="getTotalValue()" type="number" id="product-price">
+        </div>
+
+        <div class="price-input">
+          <label for="product-tax">Product Tax</label>
+          <input onkeyup="getTotalValue()" type="number" id="product-tax">
+        </div>
+
+        <div class="price-input">
+          <label for="product-discount">Product Discount</label>
+          <input onkeyup="getTotalValue()" type="number" id="product-discount">
+        </div>
+
+        <small id="total"></small>
+
+      </div>
+      <div class="input-box">
+        <label for="product-category">Product Category</label>
+        <input type="text" id="product-category">
+      </div>
+      <div class="input-box">
+        <label for="product-quantity">Product Quantity</label>
+        <input type="number" id="product-quantity">
+      </div>
+      <button id="add-prodcut">Add Product</button>
+    </div>
+
+    <div class="search-product">
+      <div class="search-box">
+        <input type="text" id="search" placeholder="Search For A Product By Name">
+      </div>
+    </div>
+
+    <div class="display-products">
+      <table>
+        <tr>
+          <th>ID</th>
+          <th>Name</th>
+          <th>Price</th>
+          <th>Tax</th>
+          <th>Discount</th>
+          <th>Total</th>
+          <th>Category</th>
+          <th>Quantity</th>
+          <th>Update</th>
+          <th>Delete</th>
+        </tr>
+        <tbody id="display-area">
+        </tbody>
+      </table>
+    </div>
+
+    <div class="overlay"></div>
+
+    <div class="update-form">
+      <div class="close-icon">
+        <i class="fa-solid fa-xmark"></i>
+      </div>
+      <div class="update-title">
+        Update Product Form
+      </div>
+      <div class="update-box">
+        <input type="text" id="update-name" placeholder="Update Name">
+      </div>
+      <div class="update-box">
+        <input type="number" id="update-price" placeholder="Update Price">
+      </div>
+      <div class="update-box">
+        <input type="number" id="update-tax" placeholder="Update Tax">
+      </div>
+      <div class="update-box">
+        <input type="number" id="update-discount" placeholder="Update Discount">
+      </div>
+      <div class="update-box">
+        <input type="text" id="update-category" placeholder="Update Category">
+      </div>
+      <div class="update-box">
+        <input type="number" id="update-quantity" placeholder="Update Quantity">
+      </div>
+      <button id="update-product">Apply Updates</button>
+    </div>
+
+  </div>
+  
+  <!-- JavaScript Link -->
+  <script src="javascript/script.js"></script>
+</body>
+</html>
