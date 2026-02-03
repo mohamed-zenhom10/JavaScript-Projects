@@ -22,4 +22,4 @@ A simple CRUDs (Create, Read, Update, Delete) application built with Vanilla Jav
 ![CRUDs App](./images/demo.png)
 
 ## 🌐 Live Demo
-🔗 [Try the Website](https://mohamed-zenhom10.github.io/Javascript-Projects/CRUDS%20App/)
+🔗 [Try the Website](https://mohamed-zenhom10.github.io/Javascript-Projects/)
