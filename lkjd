@@ -1,0 +1,79 @@
+[33mcommit dbc5250d7e6482e87591a4c30d5166c2dfb615be[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Mohamed Zenhom <mzenhom763@gmail.com>
+Date:   Wed Feb 25 16:27:19 2026 +0200
+
+    First Commit for x o game
+
+[33mcommit 03efae3400f70540b30ca3eb194aeb75b04f871a[m
+Merge: 107f9c8 af7ce0e
+Author: mohamed-zenhom10 <mzenhom763@gmail.com>
+Date:   Tue Feb 3 15:39:36 2026 +0200
+
+    Add README file for all projects to describe them with screenshot
+
+[33mcommit 107f9c892e2535805f7c672e17da2814e2db676d[m
+Author: mohamed-zenhom10 <mzenhom763@gmail.com>
+Date:   Tue Feb 3 15:33:48 2026 +0200
+
+    Adding A README file for the projects with screenshot
+
+[33mcommit af7ce0e7465a7052d4e5cc3a7d9845842b8380ae[m
+Author: Mohamed Zenhom <mzenhom763@gmail.com>
+Date:   Tue Feb 3 15:15:50 2026 +0200
+
+    Change live demo link for CRUDS App
+    
+    Updated the live demo link in the README.
+
+[33mcommit 6e43cc44b97ffdeeb4e1fea265d677dbf2ad08d2[m
+Author: Mohamed Zenhom <mzenhom763@gmail.com>
+Date:   Tue Feb 3 15:15:06 2026 +0200
+
+    Update live demo link and project structure
+    
+    Updated live demo link and added project structure section.
+
+[33mcommit ce58602db1100acc3be9d721edffcec50990b7fa[m
+Author: mohamed-zenhom10 <mzenhom763@gmail.com>
+Date:   Mon Feb 2 14:49:45 2026 +0200
+
+    Add README fil to CRUDS app
+
+[33mcommit 08564d42ecef7697776c5f2f192ccdf61dcacd7c[m
+Merge: fa25764 0445606
+Author: mohamed-zenhom10 <mzenhom763@gmail.com>
+Date:   Sun Feb 1 14:34:27 2026 +0200
+
+    Update Travel Website , Adding Scroll Animation
+
+[33mcommit fa25764e15e06bb5188f832ca3b2cdce5196d806[m
+Author: mohamed-zenhom10 <mzenhom763@gmail.com>
+Date:   Sun Feb 1 14:26:26 2026 +0200
+
+    Update Travel Website , Adding Scroll Animation
+
+[33mcommit 044560615e116f9be8b8811cfdf02b03413901ab[m
+Author: Mohamed Zenhom <mzenhom763@gmail.com>
+Date:   Sat Jan 31 16:41:46 2026 +0200
+
+    Revise README for JavaScript Projects
+    
+    Updated README to enhance project descriptions and add features.
+
+[33mcommit 731118046ba8cbbf7ba31b173995a14361695f53[m
+Author: mohamed-zenhom10 <mzenhom763@gmail.com>
+Date:   Sat Jan 31 16:35:21 2026 +0200
+
+    CRUDS APP , First Commit
+
+[33mcommit 95b1a6ab72fc9daaa2a08d86bbf86e9c241b2137[m
+Author: Mohamed Zenhom <mzenhom763@gmail.com>
+Date:   Sat Jan 31 16:25:16 2026 +0200
+
+    Add project description and image to README
+
+[33mcommit 3c1e5779176d726edbed1c1c7ddddff6a5e80ab9[m
+Author: Mohamed Zenhom <mzenhom763@gmail.com>
+Date:   Sat Jan 31 16:21:58 2026 +0200
+
+    Initial commit
