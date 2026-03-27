@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css">
+  <title>Advanced Quiz App</title>
+</head>
+<body>
+  
+  <div class="select-category">
+    <label>Select Category Of Quiz</label>
+    <select id="categories">
+      <option selected disabled>Select</option>
+      <option value="animals">Animals</option>
+      <option value="history">History</option>
+      <option value="programming">Programming</option>
+      <option value="science">Science</option>
+      <option value="sports">Sports</option>
+    </select>
+  </div>
+
+  <div class="container">
+    <div class="quiz-data">
+      <div class="quiz-category">Category: <span></span></div>
+      <div class="questions-number">Questions Count: <span></span></div>
+    </div>
+    <div class="question-title"></div>
+    <div class="question-answers"></div>
+    <button id="submit-answer" class="btn">Submit</button>
+    <div class="info">
+      <div class="bullets"></div>
+      <div class="countdown"></div>
+    </div>
+    <div class="result"></div>
+  </div>
+
+  <script src="js/script.js"></script>
+</body>
+</html>

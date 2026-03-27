@@ -1,0 +1,82 @@
+[
+  {
+    "question_title": "Which country won the FIFA World Cup in 2018?",
+    "answer_1": "Brazil",
+    "answer_2": "France",
+    "answer_3": "Germany",
+    "answer_4": "Argentina",
+    "correct_answer": "France"
+  },
+  {
+    "question_title": "How many players are on a basketball team on the court?",
+    "answer_1": "5",
+    "answer_2": "6",
+    "answer_3": "7",
+    "answer_4": "11",
+    "correct_answer": "5"
+  },
+  {
+    "question_title": "In which sport is the term 'love' used for scoring?",
+    "answer_1": "Tennis",
+    "answer_2": "Football",
+    "answer_3": "Basketball",
+    "answer_4": "Golf",
+    "correct_answer": "Tennis"
+  },
+  {
+    "question_title": "Which country is famous for sumo wrestling?",
+    "answer_1": "China",
+    "answer_2": "Japan",
+    "answer_3": "Korea",
+    "answer_4": "Thailand",
+    "correct_answer": "Japan"
+  },
+  {
+    "question_title": "Which athlete is known as 'The King of Football'?",
+    "answer_1": "Lionel Messi",
+    "answer_2": "Cristiano Ronaldo",
+    "answer_3": "Pelé",
+    "answer_4": "Neymar",
+    "correct_answer": "Pelé"
+  },
+  {
+    "question_title": "How many points is a touchdown worth in American football?",
+    "answer_1": "3",
+    "answer_2": "6",
+    "answer_3": "1",
+    "answer_4": "7",
+    "correct_answer": "6"
+  },
+  {
+    "question_title": "Which sport uses a pommel horse?",
+    "answer_1": "Gymnastics",
+    "answer_2": "Equestrian",
+    "answer_3": "Weightlifting",
+    "answer_4": "Wrestling",
+    "correct_answer": "Gymnastics"
+  },
+  {
+    "question_title": "Which country hosts the Wimbledon tennis tournament?",
+    "answer_1": "USA",
+    "answer_2": "France",
+    "answer_3": "England",
+    "answer_4": "Australia",
+    "correct_answer": "England"
+  },
+  {
+    "question_title": "Which sport is known as the 'king of sports'?",
+    "answer_1": "Football",
+    "answer_2": "Basketball",
+    "answer_3": "Cricket",
+    "answer_4": "Tennis",
+    "correct_answer": "Football"
+  },
+  {
+    "question_title": "Which Olympic sport involves a sword?",
+    "answer_1": "Fencing",
+    "answer_2": "Archery",
+    "answer_3": "Judo",
+    "answer_4": "Boxing",
+    "correct_answer": "Fencing"
+  }
+]

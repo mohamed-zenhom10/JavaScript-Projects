@@ -1,0 +1,82 @@
+[
+  {
+    "question_title": "What is the chemical symbol for water?",
+    "answer_1": "H2O",
+    "answer_2": "O2",
+    "answer_3": "CO2",
+    "answer_4": "HO",
+    "correct_answer": "H2O"
+  },
+  {
+    "question_title": "What planet is known as the Red Planet?",
+    "answer_1": "Earth",
+    "answer_2": "Mars",
+    "answer_3": "Jupiter",
+    "answer_4": "Venus",
+    "correct_answer": "Mars"
+  },
+  {
+    "question_title": "What gas do plants absorb from the atmosphere for photosynthesis?",
+    "answer_1": "Oxygen",
+    "answer_2": "Carbon Dioxide",
+    "answer_3": "Nitrogen",
+    "answer_4": "Hydrogen",
+    "correct_answer": "Carbon Dioxide"
+  },
+  {
+    "question_title": "What is the center of an atom called?",
+    "answer_1": "Electron",
+    "answer_2": "Proton",
+    "answer_3": "Nucleus",
+    "answer_4": "Neutron",
+    "correct_answer": "Nucleus"
+  },
+  {
+    "question_title": "What is the speed of light?",
+    "answer_1": "300,000 km/s",
+    "answer_2": "150,000 km/s",
+    "answer_3": "1,000 km/s",
+    "answer_4": "30,000 km/s",
+    "correct_answer": "300,000 km/s"
+  },
+  {
+    "question_title": "Which organ in the human body pumps blood?",
+    "answer_1": "Lungs",
+    "answer_2": "Heart",
+    "answer_3": "Kidney",
+    "answer_4": "Liver",
+    "correct_answer": "Heart"
+  },
+  {
+    "question_title": "Which planet has the largest number of moons?",
+    "answer_1": "Saturn",
+    "answer_2": "Jupiter",
+    "answer_3": "Mars",
+    "answer_4": "Earth",
+    "correct_answer": "Jupiter"
+  },
+  {
+    "question_title": "What is the chemical symbol for gold?",
+    "answer_1": "Ag",
+    "answer_2": "Au",
+    "answer_3": "Gd",
+    "answer_4": "Go",
+    "correct_answer": "Au"
+  },
+  {
+    "question_title": "Which part of the cell contains genetic material?",
+    "answer_1": "Cytoplasm",
+    "answer_2": "Nucleus",
+    "answer_3": "Mitochondria",
+    "answer_4": "Ribosome",
+    "correct_answer": "Nucleus"
+  },
+  {
+    "question_title": "What force keeps planets in orbit around the sun?",
+    "answer_1": "Magnetism",
+    "answer_2": "Gravity",
+    "answer_3": "Friction",
+    "answer_4": "Electricity",
+    "correct_answer": "Gravity"
+  }
+]

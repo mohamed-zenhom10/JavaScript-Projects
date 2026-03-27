@@ -1,0 +1,82 @@
+[
+  {
+    "question_title": "Who was the first Pharaoh of unified Egypt?",
+    "answer_1": "Narmer",
+    "answer_2": "Tutankhamun",
+    "answer_3": "Ramses II",
+    "answer_4": "Khufu",
+    "correct_answer": "Narmer"
+  },
+  {
+    "question_title": "Which pyramid is the largest in Egypt?",
+    "answer_1": "Pyramid of Khafre",
+    "answer_2": "Step Pyramid of Djoser",
+    "answer_3": "Great Pyramid of Giza",
+    "answer_4": "Red Pyramid",
+    "correct_answer": "Great Pyramid of Giza"
+  },
+  {
+    "question_title": "Who was the female Pharaoh famous for trade and building projects?",
+    "answer_1": "Cleopatra",
+    "answer_2": "Hatshepsut",
+    "answer_3": "Nefertiti",
+    "answer_4": "Merneith",
+    "correct_answer": "Hatshepsut"
+  },
+  {
+    "question_title": "Which Pharaoh signed the first known peace treaty in history?",
+    "answer_1": "Ramses II",
+    "answer_2": "Thutmose III",
+    "answer_3": "Amenhotep III",
+    "answer_4": "Akhenaten",
+    "correct_answer": "Ramses II"
+  },
+  {
+    "question_title": "Which river was crucial to ancient Egyptian civilization?",
+    "answer_1": "Nile",
+    "answer_2": "Amazon",
+    "answer_3": "Tigris",
+    "answer_4": "Yangtze",
+    "correct_answer": "Nile"
+  },
+  {
+    "question_title": "What writing system did ancient Egyptians use?",
+    "answer_1": "Cuneiform",
+    "answer_2": "Hieroglyphics",
+    "answer_3": "Latin Alphabet",
+    "answer_4": "Phoenician",
+    "correct_answer": "Hieroglyphics"
+  },
+  {
+    "question_title": "Who was the boy king whose tomb was discovered almost intact in 1922?",
+    "answer_1": "Ramses II",
+    "answer_2": "Tutankhamun",
+    "answer_3": "Akhenaten",
+    "answer_4": "Khufu",
+    "correct_answer": "Tutankhamun"
+  },
+  {
+    "question_title": "Which ancient Egyptian structure is also known as the 'Sphinx'?",
+    "answer_1": "Great Pyramid of Giza",
+    "answer_2": "Karnak Temple",
+    "answer_3": "Statue with a lion body and human head",
+    "answer_4": "Luxor Obelisk",
+    "correct_answer": "Statue with a lion body and human head"
+  },
+  {
+    "question_title": "Which Pharaoh is famous for the construction of Abu Simbel temples?",
+    "answer_1": "Thutmose III",
+    "answer_2": "Ramses II",
+    "answer_3": "Amenhotep III",
+    "answer_4": "Khufu",
+    "correct_answer": "Ramses II"
+  },
+  {
+    "question_title": "Which period is considered the peak of ancient Egyptian power and culture?",
+    "answer_1": "Old Kingdom",
+    "answer_2": "Middle Kingdom",
+    "answer_3": "New Kingdom",
+    "answer_4": "Late Period",
+    "correct_answer": "New Kingdom"
+  }
+]

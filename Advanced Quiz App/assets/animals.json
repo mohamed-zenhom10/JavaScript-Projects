@@ -1,0 +1,82 @@
+[
+  {
+    "question_title": "Which of these animals is a mammal?",
+    "answer_1": "Shark",
+    "answer_2": "Dolphin",
+    "answer_3": "Turtle",
+    "answer_4": "Bee",
+    "correct_answer": "Dolphin"
+  },
+  {
+    "question_title": "What is the fastest land animal in the world?",
+    "answer_1": "Cheetah",
+    "answer_2": "Lion",
+    "answer_3": "Gazelle",
+    "answer_4": "Horse",
+    "correct_answer": "Cheetah"
+  },
+  {
+    "question_title": "Which of the following animals lays eggs?",
+    "answer_1": "Duck",
+    "answer_2": "Dog",
+    "answer_3": "Cat",
+    "answer_4": "Elephant",
+    "correct_answer": "Duck"
+  },
+  {
+    "question_title": "Which of these animals lives in Antarctica?",
+    "answer_1": "Penguin",
+    "answer_2": "Polar Bear",
+    "answer_3": "Lion",
+    "answer_4": "Giraffe",
+    "correct_answer": "Penguin"
+  },
+  {
+    "question_title": "What is the largest animal on Earth?",
+    "answer_1": "African Elephant",
+    "answer_2": "Blue Whale",
+    "answer_3": "Great White Shark",
+    "answer_4": "Hippopotamus",
+    "correct_answer": "Blue Whale"
+  },
+  {
+    "question_title": "Which of these animals has a trunk?",
+    "answer_1": "Elephant",
+    "answer_2": "Giraffe",
+    "answer_3": "Koala",
+    "answer_4": "Monkey",
+    "correct_answer": "Elephant"
+  },
+  {
+    "question_title": "Which of these animals can fly?",
+    "answer_1": "Bat",
+    "answer_2": "Tiger",
+    "answer_3": "Crocodile",
+    "answer_4": "Camel",
+    "correct_answer": "Bat"
+  },
+  {
+    "question_title": "Which animal is known as the 'King of the Jungle'?",
+    "answer_1": "Lion",
+    "answer_2": "Tiger",
+    "answer_3": "Cheetah",
+    "answer_4": "Wolf",
+    "correct_answer": "Lion"
+  },
+  {
+    "question_title": "Which of these animals mostly lives in the desert?",
+    "answer_1": "Camel",
+    "answer_2": "Dolphin",
+    "answer_3": "Penguin",
+    "answer_4": "Koala",
+    "correct_answer": "Camel"
+  },
+  {
+    "question_title": "Which of the following animals has strong claws for climbing?",
+    "answer_1": "Tiger",
+    "answer_2": "Horse",
+    "answer_3": "Pig",
+    "answer_4": "Elephant",
+    "correct_answer": "Tiger"
+  }
+]

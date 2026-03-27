@@ -1,0 +1,82 @@
+[
+  {
+    "question_title": "Which language is primarily used for web development?",
+    "answer_1": "Python",
+    "answer_2": "JavaScript",
+    "answer_3": "C++",
+    "answer_4": "Java",
+    "correct_answer": "JavaScript"
+  },
+  {
+    "question_title": "What does HTML stand for?",
+    "answer_1": "Hyper Text Markup Language",
+    "answer_2": "High Text Machine Language",
+    "answer_3": "Hyperlinks and Text Markup Language",
+    "answer_4": "Hyper Tool Multi Language",
+    "correct_answer": "Hyper Text Markup Language"
+  },
+  {
+    "question_title": "Which of these is a backend programming language?",
+    "answer_1": "CSS",
+    "answer_2": "JavaScript",
+    "answer_3": "Python",
+    "answer_4": "HTML",
+    "correct_answer": "Python"
+  },
+  {
+    "question_title": "Which of the following is used to style web pages?",
+    "answer_1": "HTML",
+    "answer_2": "CSS",
+    "answer_3": "Java",
+    "answer_4": "Python",
+    "correct_answer": "CSS"
+  },
+  {
+    "question_title": "Which programming language is known for its use in data science?",
+    "answer_1": "C#",
+    "answer_2": "Python",
+    "answer_3": "PHP",
+    "answer_4": "HTML",
+    "correct_answer": "Python"
+  },
+  {
+    "question_title": "Which of these is a version control system?",
+    "answer_1": "Git",
+    "answer_2": "Node.js",
+    "answer_3": "React",
+    "answer_4": "Docker",
+    "correct_answer": "Git"
+  },
+  {
+    "question_title": "Which language is primarily used for Android app development?",
+    "answer_1": "Swift",
+    "answer_2": "Java",
+    "answer_3": "C++",
+    "answer_4": "Python",
+    "correct_answer": "Java"
+  },
+  {
+    "question_title": "Which of the following is a JavaScript framework?",
+    "answer_1": "React",
+    "answer_2": "Django",
+    "answer_3": "Flask",
+    "answer_4": "Laravel",
+    "correct_answer": "React"
+  },
+  {
+    "question_title": "Which symbol is used for single-line comments in JavaScript?",
+    "answer_1": "//",
+    "answer_2": "/* */",
+    "answer_3": "#",
+    "answer_4": "<!-- -->",
+    "correct_answer": "//"
+  },
+  {
+    "question_title": "Which of the following is NOT a programming paradigm?",
+    "answer_1": "Object-Oriented",
+    "answer_2": "Functional",
+    "answer_3": "Procedural",
+    "answer_4": "Graphical",
+    "correct_answer": "Graphical"
+  }
+]
