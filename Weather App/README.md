@@ -4,7 +4,7 @@ A modern, responsive weather application that provides real-time weather data fo
 
 ## Live Demo
 
-<a href="https://eg-weather-app.netlify.app/"></a>
+<a href="https://eg-weather-app.netlify.app/">live demo</a>
 
 ## Screen Shot
 ![screenshot](demo.png)
